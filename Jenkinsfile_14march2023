@@ -31,3 +31,4 @@ Build is done.
 
 Christogonus''', recipientProviders: [developers(), contributor()], subject: 'build status', to: 'christogonus.ojo@gmail.com'
   }
+}
